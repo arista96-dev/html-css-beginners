@@ -7,3 +7,4 @@
 0. Intro
 1. Intro to HTML
 2. Text Tags
+3. Lists
